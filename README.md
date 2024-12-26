@@ -5,7 +5,7 @@
 
 # Steps to run the code
 
-1. Download the repository
+1. Clone the repository
 2. Open it in any IDE (preferably PyCharm)
 3. create virtual environment
 4. install necessary libraries
